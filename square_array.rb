@@ -4,5 +4,5 @@ def square_array(array)
       myvalue = n ** 2
     myarray << myvalue
   end
-    #{|arrays| puts arrays ** 2 }#puts "#{arrays}"  }
+  myarray  #{|arrays| puts arrays ** 2 }#puts "#{arrays}"  }
 end
